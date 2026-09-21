@@ -37,8 +37,8 @@
 class Etr < Formula
   desc "Reconnecting remote shell over QUIC"
   homepage "https://github.com/l1a/etr"
-  url "https://github.com/l1a/etr/archive/refs/tags/v0.10.1.tar.gz"
-  sha256 "4e3c431bf58e0fdb229e551ef8436e425b49fb18dd0f8de314191d1493839cd0"
+  url "https://github.com/l1a/etr/archive/refs/tags/v0.10.6.tar.gz"
+  sha256 "4f0f88ba9017442e1d8c8dbc14a482f965143d4d455dc47df4c792d3fd654360"
   license "GPL-3.0-only"
   head "https://github.com/l1a/etr.git", branch: "main"
 
